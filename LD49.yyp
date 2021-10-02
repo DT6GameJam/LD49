@@ -1,8 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"oBullet1","path":"objects/oBullet1/oBullet1.yy",},"order":1,},
     {"id":{"name":"oTest","path":"objects/oTest/oTest.yy",},"order":15,},
-    {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"order":16,},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
+    {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"order":0,},
+    {"id":{"name":"sBullet_alpha","path":"sprites/sBullet_alpha/sBullet_alpha.yy",},"order":2,},
+    {"id":{"name":"sEnemy_alpha","path":"sprites/sEnemy_alpha/sEnemy_alpha.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
