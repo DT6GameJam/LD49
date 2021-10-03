@@ -2,7 +2,8 @@
 // You can write your code in this editor
 
 mvSpeed = 0;
-hp = 10;
+maxHp = 10
+hp = maxHp;
 
 //Weapons stats if we want to use them
 fire_rate = 2;
