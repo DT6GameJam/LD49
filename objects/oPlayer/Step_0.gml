@@ -19,7 +19,7 @@ if (up || down){
 	dirY = down - up;
 }
 
-if (right || left || up || down){
+if (dirX != 0 || dirY != 0){
 	direction = point_direction(0, 0, dirX, dirY);
 	speed = mvSpeed;
 }else{
@@ -31,3 +31,12 @@ if (right || left || up || down){
 if (hp = 0){
 instance_destroy();
 }
+
+// Shooting Mechanic
+if (mouse_check_button(mb_left) && cooldown < 1){
+	for (i = 0; i < projectile_num; i++){
+		instance_create_layer(x, y, "projectile_layer", oplayer_bullet);
+	}
+	cooldown = room_speed/fire_rate;
+}
+cooldown -= 1
