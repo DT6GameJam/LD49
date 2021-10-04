@@ -31,10 +31,10 @@ if(vx == 0 && vy ==0){
 	}
 	
 }
-
-// if moving
+/*
+//if moving
 if(vx != 0 || vy != 0){
-	// move
+	//move
 	// adding a check for env obj
 	// x+vj is basically looking ahead before the player moves
 	if(!collision_point(x+vx,y,obj_par_env,true,true)){
@@ -43,6 +43,7 @@ if(vx != 0 || vy != 0){
 	if(!collision_point(x, y+vy,obj_par_env,true,true)){
 	y += vy;
 	}
+	/*
 	// change walking sprite based on direction
 	if(vx > 0){
 		sprite_index = spr_player_walk_right;
