@@ -7,6 +7,7 @@
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"sDungeon","path":"sprites/sDungeon/sDungeon.yy",},"order":16,},
     {"id":{"name":"oScoreKeeper","path":"objects/oScoreKeeper/oScoreKeeper.yy",},"order":6,},
+    {"id":{"name":"sSplashScreenOpera","path":"sprites/sSplashScreenOpera/sSplashScreenOpera.yy",},"order":30,},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":4,},
     {"id":{"name":"oExitGame","path":"objects/oExitGame/oExitGame.yy",},"order":29,},
     {"id":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"order":24,},
