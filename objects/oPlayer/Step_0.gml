@@ -42,3 +42,16 @@ if (mouse_check_button(mb_left) && cooldown < 1){
 	cooldown = room_speed/fire_rate;
 }
 cooldown -= 1
+
+//collision
+if(dirX != 0 || dirY != 0){
+	//move
+	// adding a check for env obj
+	// x+vj is basically looking ahead before the player moves
+	if(collision_point(x+(dirX*mvSpeed),y,oCollision,true,true)){
+		x -= (dirX*mvSpeed);
+	}
+	if(collision_point(x, y+(dirY*mvSpeed),oCollision,true,true)){
+		y -= (dirY*mvSpeed);
+	}
+}
