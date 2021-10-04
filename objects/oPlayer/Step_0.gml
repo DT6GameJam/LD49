@@ -30,7 +30,8 @@ if (dirX != 0 || dirY != 0){
 //  Die if hp reaches 0
 if (hp = 0){
 instance_destroy();
-instance_create_depth(room_height/2, room_width/2, 0,oRestart)
+instance_create_depth(350,250, 0, oRestart)
+instance_create_depth(650, 250, 0,oExitGame)
 }
 
 // Shooting Mechanic
