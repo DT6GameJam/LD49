@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite3",
-    "path": "sprites/Sprite3/Sprite3.yy",
+    "name": "sCataTurret",
+    "path": "sprites/sCataTurret/sCataTurret.yy",
   },
   "solid": false,
   "visible": true,

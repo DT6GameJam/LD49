@@ -10,5 +10,7 @@ if (hp <= 0){
 	
 	//remove instance
 	instance_destroy ();	
+	global.playerScore += 1;
+
 }
 

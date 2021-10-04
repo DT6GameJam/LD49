@@ -4,7 +4,7 @@
     "path": "sprites/sCollisionFeet/sCollisionFeet.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
