@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sCataTurret",
+    "path": "sprites/sCataTurret/sCataTurret.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
