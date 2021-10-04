@@ -32,6 +32,13 @@ if (hp = 0){
 instance_destroy();
 instance_create_depth(350,250, 0, oRestart)
 instance_create_depth(650, 250, 0,oExitGame)
+	if(global.playerScore > global.highscore[0])
+	{	
+		array_delete(global.highscore, 0, 1)
+		array_push(global.highscore, global.playerScore)
+	}
+	global.playerScore = 0;
+	
 }
 
 // Shooting Mechanic
