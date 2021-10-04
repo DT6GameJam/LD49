@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sEnemy_beta",
-    "path": "sprites/sEnemy_beta/sEnemy_beta.yy",
+    "name": "sCataTurret",
+    "path": "sprites/sCataTurret/sCataTurret.yy",
   },
   "solid": false,
   "visible": true,

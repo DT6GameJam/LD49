@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sEnemy_alpha",
-    "path": "sprites/sEnemy_alpha/sEnemy_alpha.yy",
+    "name": "sHunchGat",
+    "path": "sprites/sHunchGat/sHunchGat.yy",
   },
   "solid": false,
   "visible": true,

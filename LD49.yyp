@@ -2,11 +2,9 @@
   "resources": [
     {"id":{"name":"Music1","path":"sounds/Music1/Music1.yy",},"order":19,},
     {"id":{"name":"oRestart","path":"objects/oRestart/oRestart.yy",},"order":26,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":16,},
     {"id":{"name":"sRestart","path":"sprites/sRestart/sRestart.yy",},"order":27,},
     {"id":{"name":"oBullet1","path":"objects/oBullet1/oBullet1.yy",},"order":1,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":17,},
     {"id":{"name":"sDungeon","path":"sprites/sDungeon/sDungeon.yy",},"order":16,},
     {"id":{"name":"oScoreKeeper","path":"objects/oScoreKeeper/oScoreKeeper.yy",},"order":6,},
     {"id":{"name":"oExitGame","path":"objects/oExitGame/oExitGame.yy",},"order":29,},
