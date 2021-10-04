@@ -67,9 +67,6 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":320.0,"resourceVersion":"1.0","name":"inst_21B5D4D3","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":384.0,"resourceVersion":"1.0","name":"inst_26E08FB0","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":448.0,"resourceVersion":"1.0","name":"inst_1DE26BC0","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"oGameManager","path":"objects/oGameManager/oGameManager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":0.0,"resourceVersion":"1.0","name":"inst_5565D5F6","tags":[],"resourceType":"GMRInstance",},
-      ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":64,"gridY":64,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
-
         {"properties":[],"isDnd":false,"objectId":{"name":"oScoreKeeper","path":"objects/oScoreKeeper/oScoreKeeper.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":128.0,"resourceVersion":"1.0","name":"inst_6F452DF4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oDangerTile","path":"objects/oDangerTile/oDangerTile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":448.0,"resourceVersion":"1.0","name":"inst_7A8AE815","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oDangerTile","path":"objects/oDangerTile/oDangerTile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":448.0,"resourceVersion":"1.0","name":"inst_7EBD3CA","tags":[],"resourceType":"GMRInstance",},
@@ -160,9 +157,6 @@
     {"name":"inst_21B5D4D3","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_26E08FB0","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_1DE26BC0","path":"rooms/rArena/rArena.yy",},
-
-    {"name":"inst_5565D5F6","path":"rooms/rArena/rArena.yy",},
-
     {"name":"inst_6F452DF4","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_7A8AE815","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_7EBD3CA","path":"rooms/rArena/rArena.yy",},
@@ -191,7 +185,6 @@
     {"name":"inst_7D0D3536","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_795C7C7","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_3564FA07","path":"rooms/rArena/rArena.yy",},
-
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

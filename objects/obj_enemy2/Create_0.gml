@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-maxHp = 5
+maxHp = 20
 mvSpeed = 0.5;
-hp = maxHp;
+hp = 10;
 
 //Weapons stats if we want to use them
 fire_rate = 1;
