@@ -33,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_enemy1",
+  "name": "oEnemyParent",
   "tags": [],
   "resourceType": "GMObject",
 }
