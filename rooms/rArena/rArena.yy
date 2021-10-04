@@ -18,6 +18,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":480.0,"y":352.0,"resourceVersion":"1.0","name":"inst_7D0D3536","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":384.0,"resourceVersion":"1.0","name":"inst_795C7C7","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oEnemyParent","path":"objects/oEnemyParent/oEnemyParent.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":224.0,"resourceVersion":"1.0","name":"inst_3564FA07","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oGameManager","path":"objects/oGameManager/oGameManager.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":0.0,"resourceVersion":"1.0","name":"inst_368BDBC7","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oDangerTile","path":"objects/oDangerTile/oDangerTile.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":320.0,"resourceVersion":"1.0","name":"inst_28099165","tags":[],"resourceType":"GMRInstance",},
@@ -185,6 +186,7 @@
     {"name":"inst_7D0D3536","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_795C7C7","path":"rooms/rArena/rArena.yy",},
     {"name":"inst_3564FA07","path":"rooms/rArena/rArena.yy",},
+    {"name":"inst_368BDBC7","path":"rooms/rArena/rArena.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
