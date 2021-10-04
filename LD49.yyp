@@ -1,7 +1,9 @@
 {
   "resources": [
     {"id":{"name":"Music1","path":"sounds/Music1/Music1.yy",},"order":19,},
+    {"id":{"name":"oRestart","path":"objects/oRestart/oRestart.yy",},"order":26,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":16,},
+    {"id":{"name":"sRestart","path":"sprites/sRestart/sRestart.yy",},"order":27,},
     {"id":{"name":"oBullet1","path":"objects/oBullet1/oBullet1.yy",},"order":1,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":17,},
@@ -10,6 +12,7 @@
     {"id":{"name":"oTest","path":"objects/oTest/oTest.yy",},"order":15,},
     {"id":{"name":"sCataTurret","path":"sprites/sCataTurret/sCataTurret.yy",},"order":21,},
     {"id":{"name":"rArena","path":"rooms/rArena/rArena.yy",},"order":2,},
+    {"id":{"name":"rSplashScreen","path":"rooms/rSplashScreen/rSplashScreen.yy",},"order":4,},
     {"id":{"name":"sDT6","path":"sprites/sDT6/sDT6.yy",},"order":19,},
     {"id":{"name":"sDangerTiles","path":"sprites/sDangerTiles/sDangerTiles.yy",},"order":17,},
     {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},"order":1,},
@@ -46,9 +49,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rSplashScreen","path":"rooms/rSplashScreen/rSplashScreen.yy",},},
     {"roomId":{"name":"rArena","path":"rooms/rArena/rArena.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"intro","path":"rooms/intro/intro.yy",},},
   ],
   "Folders": [

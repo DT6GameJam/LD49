@@ -3,7 +3,10 @@
 
 if(danger = true)
 {
-	instance_destroy(oPlayer);
+	with(oPlayer)
+	{
+		hp = 0;
+	}
 }
 
 
